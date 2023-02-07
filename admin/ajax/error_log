@@ -1,0 +1,22 @@
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant DBSERVER - assumed 'DBSERVER' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 23
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant DBNAME - assumed 'DBNAME' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 24
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant DBUSER - assumed 'DBUSER' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 25
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant DBPASS - assumed 'DBPASS' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 26
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant MYDOMAIN - assumed 'MYDOMAIN' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 27
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant HDOMAIN - assumed 'HDOMAIN' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 28
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant APIKEY - assumed 'APIKEY' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 29
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant AUTHKEY - assumed 'AUTHKEY' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 30
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Use of undefined constant APIURL - assumed 'APIURL' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 31
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Undefined variable: conn in /home/p5a01fnvs6l7/public_html/admin/lib/database.php on line 41
+[18-Jan-2023 10:20:29 UTC] PHP Notice:  Undefined variable: dbconn in /home/p5a01fnvs6l7/public_html/admin/lib/database.php on line 42
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant DBSERVER - assumed 'DBSERVER' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 23
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant DBNAME - assumed 'DBNAME' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 24
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant DBUSER - assumed 'DBUSER' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 25
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant DBPASS - assumed 'DBPASS' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 26
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant MYDOMAIN - assumed 'MYDOMAIN' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 27
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant HDOMAIN - assumed 'HDOMAIN' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 28
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant APIKEY - assumed 'APIKEY' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 29
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant AUTHKEY - assumed 'AUTHKEY' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 30
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Use of undefined constant APIURL - assumed 'APIURL' in /home/p5a01fnvs6l7/public_html/admin/lib/dbconf.php on line 31
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Undefined variable: conn in /home/p5a01fnvs6l7/public_html/admin/lib/database.php on line 41
+[18-Jan-2023 10:20:35 UTC] PHP Notice:  Undefined variable: dbconn in /home/p5a01fnvs6l7/public_html/admin/lib/database.php on line 42
